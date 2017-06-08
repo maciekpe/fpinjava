@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class FunctionExamplesTest {
+public class FunctionExamplesTest { 
 
   @Test
   public void testCompose() {
