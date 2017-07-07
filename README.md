@@ -1,4 +1,4 @@
-test2 This repository contains code master commit, exercises and solutions from the book "Functional Programming in Java". Along with the book itself, it's the
+test outside conflict This repository contains code master commit, exercises and solutions from the book "Functional Programming in Java". Along with the book itself, it's the
 closest you'll get to having your own private functional programming tutor without actually having one.
 
 [![Build Status][badge-travis]][travis]
